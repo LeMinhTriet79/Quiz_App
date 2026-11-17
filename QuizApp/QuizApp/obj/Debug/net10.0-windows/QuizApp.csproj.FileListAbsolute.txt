@@ -1,0 +1,14 @@
+C:\Users\Minh Triet\Desktop\Quiz_App\QuizApp\QuizApp\bin\Debug\net10.0-windows\QuizApp.exe
+C:\Users\Minh Triet\Desktop\Quiz_App\QuizApp\QuizApp\bin\Debug\net10.0-windows\QuizApp.deps.json
+C:\Users\Minh Triet\Desktop\Quiz_App\QuizApp\QuizApp\bin\Debug\net10.0-windows\QuizApp.runtimeconfig.json
+C:\Users\Minh Triet\Desktop\Quiz_App\QuizApp\QuizApp\bin\Debug\net10.0-windows\QuizApp.dll
+C:\Users\Minh Triet\Desktop\Quiz_App\QuizApp\QuizApp\bin\Debug\net10.0-windows\QuizApp.pdb
+C:\Users\Minh Triet\Desktop\Quiz_App\QuizApp\QuizApp\obj\Debug\net10.0-windows\QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Triet\Desktop\Quiz_App\QuizApp\QuizApp\obj\Debug\net10.0-windows\QuizApp.AssemblyInfoInputs.cache
+C:\Users\Minh Triet\Desktop\Quiz_App\QuizApp\QuizApp\obj\Debug\net10.0-windows\QuizApp.AssemblyInfo.cs
+C:\Users\Minh Triet\Desktop\Quiz_App\QuizApp\QuizApp\obj\Debug\net10.0-windows\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\Minh Triet\Desktop\Quiz_App\QuizApp\QuizApp\obj\Debug\net10.0-windows\QuizApp.dll
+C:\Users\Minh Triet\Desktop\Quiz_App\QuizApp\QuizApp\obj\Debug\net10.0-windows\refint\QuizApp.dll
+C:\Users\Minh Triet\Desktop\Quiz_App\QuizApp\QuizApp\obj\Debug\net10.0-windows\QuizApp.pdb
+C:\Users\Minh Triet\Desktop\Quiz_App\QuizApp\QuizApp\obj\Debug\net10.0-windows\QuizApp.genruntimeconfig.cache
+C:\Users\Minh Triet\Desktop\Quiz_App\QuizApp\QuizApp\obj\Debug\net10.0-windows\ref\QuizApp.dll
